@@ -1,6 +1,5 @@
 # Phonepe_Pulse
 
-**README**
 
 **Project:** PhonePe Pulse Data Visualization and Exploration
 
